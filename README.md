@@ -1,6 +1,6 @@
 # Philips Digital front-end guidelines # [Competence]
 
-TOC:
+TOC V2:
 
 - Target audience
 	- Any FE developer within Digital on PIL (i.e. AEM, Hybris, Eloqua, Salesforce)
