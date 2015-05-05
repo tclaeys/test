@@ -1,0 +1,27 @@
+// Philips JSHint Profile
+{
+  // Environment options
+  "devel": true,              // Defines globals that are usually used for loggin/debugging
+  "browser": true,            // Defines globals exposed by modern browsers
+  "jquery": true,             // Defines globals exposed by the jQuery JavaScript library
+  // Options
+  "indent": 4,                // Indent width: 4
+  "eqeqeq": true,             // Use ===
+  "plusplus": false,          // Allow ++
+  "noempty": true,            // Do not allow empty blocks
+  "unused": true,             // Disallow unused function arguments / variables
+  "undef": true,              // Warn about undefined vars
+  "curly": true,              // Use {} braces
+  "maxdepth": 3,              // Maxdepth of 3
+  "maxparams": 7,                 // Maximum of 7 function arguments
+  "trailing": false,          // Suppress warning about trailing whitespace
+  "nonew": true,              // Assign constructor calls to a variable
+  "forin": true,              // Filter items in forin loops
+  "laxcomma": true,           // Suppress warning about the comma-first-style
+  "quotmark": "single",       // Use single quote style
+  // Legacy options
+  "es5": true,
+  "white": false,
+  "regexdash": true,
+  "nomen": false
+}
