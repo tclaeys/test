@@ -1,4 +1,4 @@
-// Philips Javascript Check Style Profile 
+// Philips Javascript Check Style Profile
 // See all rules explained here: http://jscs.info/rules.html
 {
 	"disallowSpacesInNamedFunctionExpression": {
