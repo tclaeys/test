@@ -27,7 +27,15 @@
     ],
     "disallowNewlineBeforeBlockStatements": true,
     "disallowMultipleLineStrings": true,
-	"requireCurlyBraces": true,
+	"requireCurlyBraces": [
+	    "if",
+	    "else",
+	    "for",
+	    "while",
+	    "do",
+	    "try",
+	    "catch"
+	]
 	"requireSpaceAfterKeywords": [
         "if",
         "else",
